@@ -3,7 +3,7 @@ Assignment 6
 # Portfolio Website
 
 ## Live Demo
-https://your-live-url.com
+[https://your-live-url.com](https://stephb0125.github.io/)
 
 ## Features
 - Responsive design
